@@ -1,3 +1,5 @@
+package Exercicios.src;
+
 import java.util.Scanner;
 
 public class Exercicio9 {
@@ -12,7 +14,7 @@ public class Exercicio9 {
 		Exercicio9();
 	}
 
-	public static Exercicio9 () {
+	public static void Exercicio9 () {
 
 		// Solicita o cargo e o salário do funcionário
 
