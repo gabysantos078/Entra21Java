@@ -32,7 +32,7 @@ public class Exercicio14 {
 
         boolean linhaValida = false;
         while (!linhaValida) {
-            System.out.print("Insira uma linha (Opções: 1, 2, 3");
+            System.out.print("Insira uma linha (Opções: 1, 2, 3): ");
             linha = new Scanner(System.in).nextInt();
 
             if (linha >= 1 && linha <= 3) {
@@ -44,7 +44,7 @@ public class Exercicio14 {
 
         boolean colunaValida = false;
         while (!colunaValida) {
-            System.out.println("Insira uma coluna (Opções: 1, 2, 3");
+            System.out.println("Insira uma coluna (Opções: 1, 2, 3): ");
             coluna = new Scanner(System.in).nextInt();
 
             if (coluna >= 1 && coluna <= 3) {
