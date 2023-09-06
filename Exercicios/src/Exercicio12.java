@@ -8,7 +8,7 @@ public class Exercicio12 {
 	public static void main(String[] args) {
 		//Faça um programa que receba 5 números inteiros, após isso mostre o array ordenado em ordem crescente.
 		
-		Exercicio12();
+		//Exercicio12();
 	}
 
 	public static void Exercicio12() {

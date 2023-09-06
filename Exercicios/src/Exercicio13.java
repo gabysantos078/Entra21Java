@@ -10,7 +10,7 @@ public class Exercicio13 {
 		O usuário de início não sabe quantos nomes deseja inserir, 
 		logo o programa deve permitir que o números de contatos seja dinâmico. */
 		
-		Exercicio13();
+		//Exercicio13();
 	}
 	
 	public static void Exercicio13() {

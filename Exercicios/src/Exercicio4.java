@@ -8,7 +8,7 @@ public class Exercicio4 {
 		/* Faça um programa que leia o valor de um produto e solicite ao usuário um percentual de desconto. 
 		   Mostre o valor digitado pelo usuário, o percentual de desconto, o valor do desconto  e o preço com desconto.
 		 */
-		Exercicio4 ();
+		//Exercicio4 ();
 	}
 	public static void Exercicio4() {
 		

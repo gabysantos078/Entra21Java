@@ -9,7 +9,7 @@ public class Exercicio6 {
 		A partir das notas digitadas para o aluno calcule sua média. 
 		Calcule a situação do aluno baseado na média. As notas devem ser validadas para não ser menor que ZERO nem maior que DEZ. */
 
-		Exercicio6();
+		//Exercicio6();
 		
 	}
 	public static void Exercicio6() {

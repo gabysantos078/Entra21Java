@@ -10,7 +10,7 @@ public class Exercicio3 {
 		   As notas devem ser somente entre 0 e 10.
 		 */
 		
-		Exercicio3();
+		//Exercicio3();
 	}
 	
 	public static void Exercicio3() {

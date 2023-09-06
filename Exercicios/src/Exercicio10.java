@@ -8,7 +8,7 @@ public class Exercicio10 {
 		/* Faça um programa que solicite ao usuário quantos números precisa inserir. 
 		Após isso crie um array de inteiros e solicite ao usuário os números a serem armazenados. */
 		
-		Exercicio10();
+		//Exercicio10();
 		
 		
 	}

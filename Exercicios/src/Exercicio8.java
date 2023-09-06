@@ -7,7 +7,7 @@ public class Exercicio8 {
 	public static void main(String[] args) {
 		// Faça um programa para calcular o IMC. Basear na tabela da pagina
 		
-		Exercicio8();
+		//Exercicio8();
 	}
 	
 	public static void Exercicio8() {

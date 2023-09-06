@@ -7,7 +7,7 @@ public class Exercicio1 {
 	public static void main(String[] args) {
 		//  Faça um programa que leia dois números e informe qual deles é o maior
 		
-		Exercicio1();
+		//Exercicio1();
 
 	}
 	

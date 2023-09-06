@@ -11,7 +11,7 @@ public class Exercicio9 {
 		   O programa deve solicitar o cargo e o salário de cada funcionário e mostrar o salário atual, 
 		   qual foi o aumento e qual o valor do novo salário.
 		 */
-		Exercicio9();
+		//Exercicio9();
 	}
 
 	public static void Exercicio9 () {

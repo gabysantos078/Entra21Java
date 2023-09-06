@@ -8,7 +8,7 @@ public class Exercicio11 {
 		/*  Faça um programa que solicite ao usuário 5 números inteiros e armazene em um array.
 			Em seguida mostre qual o maior e menor numero digitado. */
 		
-		Exercicio11();
+		//Exercicio11();
 	}
 
 	public static void Exercicio11() {

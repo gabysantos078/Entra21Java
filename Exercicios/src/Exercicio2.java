@@ -8,7 +8,7 @@ public class Exercicio2 {
 		/* Faça um programa que leia a idade de uma pessoa e informe se ela é maior ou menor de idade. 
 		Para ser maior a pessoa precisa ter no mínimo 18 anos*/
 		
-		Exercicio2();
+		//Exercicio2();
 	}
 	
 	public static void Exercicio2() {

@@ -1,0 +1,11 @@
+html{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 16px;   
+    background-color: black;     
+}
+
+h1, p {
+    background-image: linear-gradient(green, aquamarine); 
+}

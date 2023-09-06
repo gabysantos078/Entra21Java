@@ -9,7 +9,7 @@ public class Exercicio7 {
 		   O usuário pode desejar inserir mais de um produto. 
 		   Ao finalizar a digitação mostre quantos produtos foram digitados, o valor total e a soma das quantidades digitadas.
 		 */
-		Exercicio7();
+		//Exercicio7();
 	}
 
 	public static void Exercicio7() {
